@@ -1,0 +1,11 @@
+{
+  "name": "@wadecord/rest",
+  "version": "1.0.0",
+  "description": "A rest for WadeCord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WadeSlider <elalexisgd@gmail.com>",
+  "license": "MIT"
+}
